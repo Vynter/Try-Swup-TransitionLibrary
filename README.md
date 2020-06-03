@@ -3,9 +3,9 @@
 https://swup.js.org/getting-started
 
 **Installation:**
-***link***
+
 https://swup.js.org/getting-started/installation
 
-***cli***
+**cmd:**
 npm install swup
 
