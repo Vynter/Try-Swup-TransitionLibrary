@@ -7,5 +7,6 @@ https://swup.js.org/getting-started
 https://swup.js.org/getting-started/installation
 
 **cmd:**
+
 npm install swup
 
