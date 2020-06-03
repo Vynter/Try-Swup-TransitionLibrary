@@ -1,0 +1,17 @@
+<svg width="300px" height="400px" viewBox="0 0 300 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        
+  <text x="87" y="81" fill="blue" stroke="#aaa" font-size="32" font-family="sans-serif" style="user-select: none;">random
+  </text>
+  <circle fill="blue" stroke="#aaa" cx="92.5" cy="182.5" r="53.5">
+  </circle>
+  <path stroke="white" fill="blue">
+  </path>
+  <polygon stroke="#aaa" fill="blue" points="205,132">
+  </polygon>
+  <path stroke="white" fill="blue">
+  </path>
+  <path stroke="white" fill="blue">
+  </path>
+  <polygon stroke="white" fill="blue" points="282,318 231,352 49,369 87,290 206,213">
+  </polygon>
+</svg>
